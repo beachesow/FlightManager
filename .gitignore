@@ -1,0 +1,17 @@
+build/ 
+.qtcreator/ 
+*.user 
+*.user.* 
+*.db 
+*.db-journal 
+CMakeCache.txt 
+CMakeFiles/ 
+cmake_install.cmake 
+Makefile 
+*.o 
+*.exe 
+*.dll 
+*.so 
+*.dylib 
+.vscode/ 
+.idea/ 
